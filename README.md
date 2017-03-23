@@ -8,3 +8,4 @@ Regular Expression quick reference
 - RegexPal -- http://www.regexpal.com/
 - Regex101 -- https://regex101.com/
 - RegExr -- http://regexr.com/
+- Debuggex -- https://www.debuggex.com/
